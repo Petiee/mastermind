@@ -1,0 +1,4 @@
+# noise
+*.fsx~
+*.fsx#
+*.exe
